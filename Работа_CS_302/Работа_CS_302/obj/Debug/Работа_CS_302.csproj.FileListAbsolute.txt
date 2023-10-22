@@ -1,0 +1,8 @@
+C:\Users\radio\Labs\C#\Работа_CS_302\Работа_CS_302\bin\Debug\Работа_CS_302.exe.config
+C:\Users\radio\Labs\C#\Работа_CS_302\Работа_CS_302\bin\Debug\Работа_CS_302.exe
+C:\Users\radio\Labs\C#\Работа_CS_302\Работа_CS_302\bin\Debug\Работа_CS_302.pdb
+C:\Users\radio\Labs\C#\Работа_CS_302\Работа_CS_302\obj\Debug\Работа_CS_302.csproj.AssemblyReference.cache
+C:\Users\radio\Labs\C#\Работа_CS_302\Работа_CS_302\obj\Debug\Работа_CS_302.csproj.SuggestedBindingRedirects.cache
+C:\Users\radio\Labs\C#\Работа_CS_302\Работа_CS_302\obj\Debug\Работа_CS_302.csproj.CoreCompileInputs.cache
+C:\Users\radio\Labs\C#\Работа_CS_302\Работа_CS_302\obj\Debug\Работа_CS_302.exe
+C:\Users\radio\Labs\C#\Работа_CS_302\Работа_CS_302\obj\Debug\Работа_CS_302.pdb
